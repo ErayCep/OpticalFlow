@@ -1,4 +1,11 @@
 # OpticalFlow
+Nedded libraries:
+  -opencv
+  -numpy
+  -argparse
+  
+Download opencv with `pip install opencv-python` and numpy with `pip install numpy`
+
 1-)Download the repo `git clone https://github.com/ErayCep/OpticalFlow`
 
 2-)Open terminal in repo folder
